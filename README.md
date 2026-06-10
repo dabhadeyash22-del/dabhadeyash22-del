@@ -1,4 +1,5 @@
 # 💫 Hi 👋, I'm Yash Rakesh Dabhade
+**Aspiring Software Developer | Python & Web Development Enthusiast | Building Projects, Solving Problems, and Learning Every Day 🚀**
 # 💫 About Me:
 👨‍💻 I'm currently working on<br>- Building and improving my portfolio website<br>- Expense Tracker project (Python + HTML/CSS)<br>- Uploading projects to GitHub<br><br>🤝 I'm looking to collaborate on<br>- Web development projects<br>- Python-based applications<br>- Open-source beginner-friendly projects<br><br>🫶 I'm looking for help with<br>- Backend development<br>- Full-stack project architecture<br>- DSA and LeetCode problem solving<br><br>🌱 I'm currently learning<br>- Data Structures & Algorithms<br>- Web Development (HTML, CSS, JavaScript)<br>- Git & GitHub<br>- Python Development<br><br>💬 Ask me about<br>- Python<br>- HTML & CSS<br>- GitHub<br>- Portfolio Development<br><br>⚡ Fun fact<br>- I enjoy turning simple ideas into real projects and continuously improving them.
 
